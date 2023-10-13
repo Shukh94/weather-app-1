@@ -53,3 +53,15 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
+
+.open-source {
+  border: 1px solid #dadde1;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 650px;
+}
+
+p {
+  text-align: center;
+}
